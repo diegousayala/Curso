@@ -1,1 +1,5 @@
-pip install pandas openpyxl schedule
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
